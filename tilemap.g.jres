@@ -1,0 +1,203 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAD//////////y8iIiIiIiLyL/////////Iv////////8i/////////yL/////////Iv////////8i///y/y///yL///L/L///Iv////////8i/////////yL/////////Iv////////8i/////////yLyIiIiIiIvL//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "EnemySpawn"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAD//////////z8zMzMzMzPzP/////////M/////////8z/////////zP/////////M/////////8z///z/z///zP///P/P///M/////////8z/////////zP/////////M/////////8z/////////zPzMzMzMzM/P//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "SiegeObeliskSpawn"
+    },
+    "tile3": {
+        "data": "hwQQABAAAACZmZmZmZmZmfn///////+f+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+f///////5+ZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "WallTile"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAD//////////////////////yIiIiIiIiL/IiIiIiIiIv8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv///////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CornerLine"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAD/////////////////////IiIiIiIiIv8iIiIiIiIi/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CornerLine0"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAD/Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////IiIiIiIiIv8iIiIiIiIi/////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CornerLine1"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAD///////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv8iIiIiIiIi/yIiIiIiIiL//////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CornerLine2"
+    },
+    "tile8": {
+        "data": "hwQQABAAAAD/////////////////////IiIiIiIiIiIiIiIiIiIiIv///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Line"
+    },
+    "tile9": {
+        "data": "hwQQABAAAAD/Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv///////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Line0"
+    },
+    "tile10": {
+        "data": "hwQQABAAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8iIiIiIiIiIiIiIiIiIiIi/////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Line1"
+    },
+    "tile11": {
+        "data": "hwQQABAAAAD///////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/////////yL/////////Iv////////8i/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Line2"
+    },
+    "tile12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile13": {
+        "data": "hwQQABAAAAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYzAwMGQwMDAxMGIwYzBkMGUwZjEwMTExMjEzMTQwMTE2MTUxNzE5MTkxOTE5MTkxOTE5MTkwMDAwMTgwMzA4MDgwODA4MDgwODA1MTgwMDAwMTgwNzFhMWExYTFhMWExYTA5MTgwMDAxMTgwNzFiMWQxZTFmMjAxYzA5MTgwMTAwMTgwNzFiMWYyMjI0MjAxYzA5MTgwMDAwMTgwNzFiMWYxZjI0MjExYzA5MTgwMDAxMTgwNzFiMjMxZTFlMjExYzA5MTgwMTAwMTgwNzFhMWExYTFhMWExYTA5MTgwMDAwMTgwNDBhMGEwYTBhMGEwYTA2MTgwMDAwMTgxODE4MTgxODE4MTgxODE4MTgwMDAxMTgxODE4MDExODE4MDExODE4MTgwMTAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDAyMDAwMDAwMDAyMDIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile3",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "myTiles.tile6",
+            "myTiles.tile7",
+            "myTiles.tile8",
+            "myTiles.tile9",
+            "myTiles.tile10",
+            "myTiles.tile11",
+            "sprites.builtin.crowd0",
+            "sprites.builtin.crowd1",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd3",
+            "sprites.builtin.crowd4",
+            "sprites.builtin.crowd5",
+            "sprites.builtin.crowd6",
+            "sprites.builtin.crowd7",
+            "sprites.builtin.crowd8",
+            "sprites.builtin.crowd9",
+            "sprites.vehicle.roadIntersection1",
+            "sprites.dungeon.hazardSpike",
+            "sprites.vehicle.roadTurn2",
+            "sprites.dungeon.hazardLava1",
+            "sprites.dungeon.hazardHole",
+            "sprites.dungeon.greenOuterNorth2",
+            "sprites.dungeon.greenOuterWest2",
+            "sprites.dungeon.greenOuterEast2",
+            "sprites.dungeon.floorDark2",
+            "sprites.dungeon.floorDark4",
+            "sprites.dungeon.floorMixed",
+            "sprites.dungeon.floorDark1",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorLight3",
+            "sprites.dungeon.floorLightMoss",
+            "sprites.dungeon.floorDarkDiamond"
+        ],
+        "displayName": "12x12"
+    },
+    "Siege1": {
+        "id": "Siege1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxOTAwMGIwMDBjMGQwZTBmMTAxMTEyMTMxNDE1MGMwZDBlMGYxMDExMTIxMzE0MTUwYzBkMGUwZjEwMTkxOTFkMWExZTE5MTkxOTAzMDMxOTE5MTkxOTE5MDMwMzE5MTkxOTE5MTkxOTE5MTkxOTFjMWExOTE5MTkxOTE5MTkwODA1MDUwNTA1MDUwYTAzMTkxOTE5MTkxOTE5MTkxOTFhMWIwODA1MDUwNTA1MDUwNTA0MTYxNjE2MTYxNjA2MDUwNTA1MDUwNTA1MGExOTE5MDExOTA0MTYxNjE2MTYxNjE2MDQxNjE2MTYxNjE2MDYxNjE2MTYxNjE2MTYwNjE5MDEwMTE5MDQxNjE2MTYxNjE2MTYwNDE2MTYwMjE2MTYwNjE2MTYxNjE2MTYxNjA2MTkwMTAxMTkwNDE2MTYxNjE2MTYxNjA0MTYxNjE2MTYxNjA2MTYxNjE2MTYxNjE2MDYxOTAxMTkxOTA5MDcwNzA3MDcwNzA3MDQxNjE2MTYxNjE2MDYwNzA3MDcwNzA3MDcwYjE5MTkxODE4MTgxODE4MTgxODE4MDMwOTA3MDcwNzA3MDcwYjAzMTgxODE4MTgxODE4MTgxODE5MTkxOTE5MTkxOTE5MTkwMzAzMTgxODE4MTgxODAzMDMxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkxOTE5MTkwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMDI=",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "myTiles.tile8",
+            "myTiles.tile9",
+            "myTiles.tile10",
+            "myTiles.tile11",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "myTiles.tile6",
+            "myTiles.tile7",
+            "sprites.builtin.crowd0",
+            "sprites.builtin.crowd1",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd3",
+            "sprites.builtin.crowd4",
+            "sprites.builtin.crowd5",
+            "sprites.builtin.crowd6",
+            "sprites.builtin.crowd7",
+            "sprites.builtin.crowd8",
+            "sprites.builtin.crowd9",
+            "sprites.builtin.brick",
+            "myTiles.tile12",
+            "sprites.dungeon.hazardHole",
+            "myTiles.tile13",
+            "sprites.vehicle.roadIntersection1",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadIntersection3",
+            "sprites.vehicle.roadIntersection2",
+            "sprites.dungeon.hazardSpike"
+        ],
+        "displayName": "Siege"
+    },
+    "Legacy1": {
+        "id": "Legacy1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAxMDgwNzA3MTQxNDA3MDcwNjAxMDQwOTA1MDUwNTA1MDUwNTEwMDMwNDBhMDUwNTA1MDUwNTA1MTAwMzAxMTIwNTA1MDUwNTA1MDUxMTAxMDMwYTA1MDUwNTA1MDUwNTEwMDMwNDBhMDUwNTA1MDUwNTA1MGYwMzAxMGIwYzBkMTMxMzBkMGQwZTAxMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAwMDAwMDIwMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile3",
+            "sprites.dungeon.hazardLava0",
+            "sprites.dungeon.hazardLava1",
+            "sprites.builtin.brick",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterWest0",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterSouth1",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterEast1",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenOuterEast2",
+            "sprites.dungeon.greenOuterWest2",
+            "sprites.dungeon.greenOuterSouth2",
+            "sprites.dungeon.greenOuterNorth2"
+        ],
+        "displayName": "Legacy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
